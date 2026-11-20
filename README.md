@@ -6,5 +6,5 @@ Este é o repositório do trabalho de SQL-HTML com Flask. O nome é Pombo-Inefá
 <pre>
   Integrantes: Matheus Alves de Souza Marqui
                Vinicius Gabriel Marcelino Maciel
-               Nicolas Alexandre
+               Nicolas Alexandre de Santana Freitas
 </pre>
