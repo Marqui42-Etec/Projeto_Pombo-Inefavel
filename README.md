@@ -4,7 +4,7 @@ Tema: "Qual o melhor filme desse ano"
 Este é o repositório do trabalho de SQL-HTML com Flask. O nome é Pombo-Inefável, em referência aos nossos projetos de PTIC
 
 <pre>
-  Integrantes: Matheus Marqui
-               Vinicius Gabriel
+  Integrantes: Matheus Alves de Souza Marqui
+               Vinicius Gabriel Marcelino Maciel
                Nicolas Alexandre
 </pre>
